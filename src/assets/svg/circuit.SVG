@@ -1,0 +1,84 @@
+<svg width="50.85mm" height="40.7mm"
+ viewBox="0 0 1017 814"
+ xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+ className="scale-[2.5]"
+ >
+<title>Proteus Design Suite SVG export</title>
+<desc>Created by Proteus Design Suite</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="transparent" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1017,0 L1017,814 L0,814 L0,0"/>
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M152,559 L152,763 L914,763 L914,509"/>
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M152,255 L152,51 L914,51 L914,255"/>
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M254,407 C254,463.333 208.333,509 152,509 C95.667,509 50,463.333 50,407 C50,350.667 95.667,305 152,305 C208.333,305 254,350.667 254,407 "/>
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="127,356 178,356 " />
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="152,331 152,382 " />
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="127,458 178,458 " />
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="152,255 152,305 " />
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="152,559 152,509 " />
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M894,305 L935,305 L935,458 L894,458 L894,305"/>
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="914,509 914,458 " />
+</g>
+
+<g fill="none" stroke="current" stroke-opacity="1" stroke-width="8" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="55.4182" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="914,255 914,305 " />
+</g>
+</g>
+</svg>
