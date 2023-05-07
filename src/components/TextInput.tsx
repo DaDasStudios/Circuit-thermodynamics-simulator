@@ -52,7 +52,7 @@ export const TextInput = ({
 
   return (
     <div className="mb-2">
-      <label className="block mb-1 text-lg font-medium" htmlFor={id}>
+      <label className="block mb-1 text-base 2xl:text-lg font-medium" htmlFor={id}>
         {label}
       </label>
       <Wrapper className="items-center gap-x-3">

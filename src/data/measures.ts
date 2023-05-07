@@ -9,7 +9,7 @@ export const unitMeasures: { [key: string]: MeasureFormatType[] } = {
     power: [
         { label: "W", factorConversion: 1 },
         { label: "mW", factorConversion: 1000 },
-        { label: "Caballo de potencia", factorConversion: 1 / 746 },
+        { label: "hp", factorConversion: 1 / 746 },
     ],
     energy: [
         { label: "J", factorConversion: 1 },

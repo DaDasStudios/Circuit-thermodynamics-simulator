@@ -25,18 +25,19 @@ const ResultLabel = ({ label, value, measures }: IProps) => {
   const fractionDigits = parseFloat(numDecimals)
 
   return (
-    <Wrapper className="mb-6 flex flex-nowrap items-center gap-4 justify-between px-6">
-      <p className="block mb-1 text-lg font-medium">{label}</p>
+    <Wrapper className="mb-6 flex flex-nowrap items-center gap-4 justify-start ml-10">
+      <p className="block mb-1 text-base 2xl:text-lg font-medium">{label}</p>
       <input
         type="text"
-        className={`rounded-md outline-none text-gray-800 placeholder:font-normal p-2 w-[150px]`}
-        value={(value * foundConvertionMeasure.factorConversion + (foundConvertionMeasure.additionalConstant ?? 0)).toFixed(
-          fractionDigits && fractionDigits > 0 && fractionDigits <= 9 ? fractionDigits : 3
-        )}
+        className={`rounded-md outline-none text-gray-800 placeholder:font-normal p-2`}
+        value={(
+          value * foundConvertionMeasure.factorConversion +
+          (foundConvertionMeasure.additionalConstant ?? 0)
+        ).toFixed(fractionDigits && fractionDigits > 0 && fractionDigits <= 9 ? fractionDigits : 3)}
         readOnly
       />
       <select
-        className={`rounded-md outline-none p-2 text-gray-800 placeholder:font-normal w-[150px] ${
+        className={`rounded-md outline-none p-2 text-gray-800 placeholder:font-normal ${
           !simulationState.hasStarted && "cursor-not-allowed"
         }`}
         disabled={!simulationState.hasStarted}

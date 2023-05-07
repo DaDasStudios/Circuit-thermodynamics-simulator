@@ -22,7 +22,7 @@ export const SelectInput = ({ id, label, elements, ...props }: IProps) => {
 
   return (
     <div className="mb-2">
-      <label className="block mb-1 text-lg font-medium" htmlFor={id}>
+      <label className="block mb-1 text-base 2xl:text-lg font-medium" htmlFor={id}>
         {label}
       </label>
       <select

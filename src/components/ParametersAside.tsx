@@ -45,8 +45,8 @@ const ParametersAside = () => {
   return (
     <aside className="shadow-lg h-full col-span-2 bg-opaque">
       <div className="pt-10">
-        <h3 className="text-5xl text-center font-bold mb-6">Eficiencia en circuitos</h3>
-        <p className="text-paragraph text-lg px-10 mb-8 text-justify">
+        <h3 className="text-3xl lg:text-4xl xl:text-5xl text-center font-bold mb-6">Eficiencia en circuitos</h3>
+        <p className="text-paragraph text-base 2xl:text-lg px-10 mb-8 text-justify">
           Experimenta cambiando los valores del circuito resistivo y observa su comportamiento frente a los cambios de
           temperatura.
         </p>

@@ -21,7 +21,7 @@ const ResultsAside = () => {
           <ResultLabel label="Energía:" value={circuit.energy} measures={unitMeasures.energy} />
           <ResultLabel label="Calor:" value={circuit.warm} measures={unitMeasures.energy} />
           <ResultLabel label="Temperatura:" value={circuit.temperature} measures={unitMeasures.temperature} />
-          <div className="pl-7">
+          <div className="ml-10">
             <TextInput id="numDecimals" label="Decimales" pattern={oneDigit} placeholder="Número de decimales" />
           </div>
         </div>

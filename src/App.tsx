@@ -8,7 +8,7 @@ function App() {
     <CircuitContextProvider>
       <main>
         <span className="background-gradient-animated"></span>
-        <div className="grid grid-cols-7 h-screen font-medium text-black">
+        <div className="min-w-[1600px] grid grid-cols-7 h-screen font-medium text-black">
           <ParametersAside />
           <Circuit />
           <ResultsAside />

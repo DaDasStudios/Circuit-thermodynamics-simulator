@@ -6,6 +6,10 @@
   :root {
     --color-opaque: 255, 255, 255;
   }
+
+  input {
+    @apply w-[150px];
+  }
 }
 
 @layer components {
